@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <napi.h>
-#include "../node_modules/@tensorflow/tfjs-node/deps/include/tensorflow/c/c_api.h"
+#include "/usr/local/lib/node_modules/@tensorflow/tfjs-node/deps/include/tensorflow/c/c_api.h"
 
 using namespace std;
 
